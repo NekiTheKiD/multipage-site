@@ -1,4 +1,4 @@
-Before to run the script, use ### `npx json-server --watch data/db.json`
+Before to run the script, use `npx json-server --watch data/db.json`
 
 # Getting Started with Create React App
 
